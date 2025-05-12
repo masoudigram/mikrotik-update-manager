@@ -11,6 +11,17 @@ A powerful web-based solution for managing and updating MikroTik RouterOS device
 - **Real-time Status**: Monitor device status and update progress
 - **Bulk Operations**: Perform operations on multiple devices simultaneously
 
+## 📸 Screenshots
+
+![Device Management](images/1.PNG)
+*Device management dashboard*
+
+![Upload Package File](images/2.PNG)
+*Uploading a RouterOS package file*
+
+![Bulk Operations](images/3.PNG)
+*Bulk device operations and update process*
+
 ## 🚀 Getting Started
 
 ### Prerequisites
