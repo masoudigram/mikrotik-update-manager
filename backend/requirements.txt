@@ -1,0 +1,5 @@
+flask
+pyyaml
+routeros_api
+paramiko 
+flask-cors
